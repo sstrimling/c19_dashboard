@@ -25,7 +25,7 @@ body {
   background-color: #e6e6e6;
 }
 body .js-plotly-plot .plotly, body .js-plotly-plot .plotly div {
-  font-family: "Roboto", Arial, Helvetica, sans-serif !important;
+  font-family: Garamond, Arial, Helvetica, sans-serif !important;
 }
 body .introtext {
   -webkit-columns: 2;
